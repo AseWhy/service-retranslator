@@ -1,0 +1,10 @@
+{
+    "server": {
+        "port": 4405
+    },
+
+    "redirects": {
+        "default": "https://beta.burmistr.ru:8001",
+        "correspondence-service": "https://local-kv.burmistr.ru:8634"
+    }
+}
