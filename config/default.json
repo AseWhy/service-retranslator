@@ -5,6 +5,7 @@
 
     "redirects": {
         "default": "https://beta.burmistr.ru:8001",
+        "burmistr-service": "https://local.burmistr.ru",
         "correspondence-service": "https://local-kv.burmistr.ru:8634"
     }
 }
